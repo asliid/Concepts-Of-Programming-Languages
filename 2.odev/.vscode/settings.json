@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "buzdevigezegen.h": "c",
+        "gazdevigezegen.h": "c",
+        "stdio.h": "c"
+    }
+}
